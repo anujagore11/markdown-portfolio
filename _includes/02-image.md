@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Image of Yaktocat](https://www.google.com/url?sa=i&url=https%3A%2F%2Fvenngage.com%2Fblog%2Fsimple-backgrounds%2F&psig=AOvVaw3y0Q1DhIT9HOrw52OcGfC7&ust=1598932720589000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCIjX5djGxOsCFQAAAAAdAAAAABAD)
